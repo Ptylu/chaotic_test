@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": 1,
+    "event_name": "Crazy party",
+    "start_date": "24/04/2022 15:30",
+    "end_date": "24/04/2022 20:30",
+    "location": "OMA"
+  },
+  {
+    "id": 2,
+    "event_name": "Crazy party 2",
+    "start_date": "25/04/2022 15:30",
+    "end_date": "25/04/2022 20:30",
+    "location": "OMA 2"
+  },
+  {
+    "id": 3,
+    "event_name": "Crazy party 3",
+    "start_date": "25/04/2022 18:30",
+    "end_date": "25/04/2022 21:30",
+    "location": "Dead&"
+  },
+]
