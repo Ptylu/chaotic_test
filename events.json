@@ -194,5 +194,12 @@
     "start_date": "25/04/2022 18:30",
     "end_date": "25/04/2022 21:30",
     "location": "Dead&"
+  },
+    {
+    "id": 30,
+    "event_name": "Crazy party 3",
+    "start_date": "25/04/2022 18:30",
+    "end_date": "25/04/2022 21:30",
+    "location": "Dead&"
   }
 ]
