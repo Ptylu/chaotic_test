@@ -15,7 +15,7 @@
     "end_date": "25/04/2022 20:30",
     "location": "OMA 2",
     "lineup": "15:30 DJ4, 18:00 DJ5, 19:00 DJ6",
-    "affiche": "https://raw.githubusercontent.com/Ptylu/chaotic_test/main/affiche/chaotic-affiche2.png"
+    "affiche": "https://raw.githubusercontent.com/Ptylu/chaotic_test/main/affiche/chaotic-affcihe2.png"
   },
   {
     "id": 3,
@@ -33,6 +33,6 @@
     "end_date": "24/04/2022 20:30",
     "location": "OMA",
     "lineup": "15:30 DJ71, 18:00 DJ52, 19:00 DJ35",
-    "affiche": "https://raw.githubusercontent.com/Ptylu/chaotic_test/main/affiche/chaotic-affcihe4.png"
+    "affiche": "https://raw.githubusercontent.com/Ptylu/chaotic_test/main/affiche/chaotic-affiche4.png"
   }
 ]
